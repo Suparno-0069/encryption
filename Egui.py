@@ -184,9 +184,8 @@ def decryptions():
 
     f.insert(0, Ans)
 
+
 # For clearing Encryption Input Box
-
-
 def clrEnc():
     e.delete(0, END)
 
