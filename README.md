@@ -1,7 +1,7 @@
 ## Basic Encrypting using Python
 It is a basic Python Script which encrypts a string using a simple rule<br>
 
-A becomes D
+A becomes D<br>
 B becomes E
 and so on
 
